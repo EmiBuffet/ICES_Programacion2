@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\viewmodels\\geminiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\viewmodels\\geminiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|c:\\users\\ebuffet\\desktop\\ices\\programaci\u00F3n 2\\ejemploazureopenai\\ejemploazureopenai\\ejemploazureopenai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9408F6F-48EB-4553-B852-EE2AA65E68D3}|EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj|solutionrelative:ejemploazureopenai\\ejemploazureopenai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EjemploAzureOpenAI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:26:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EjemploAzureOpenAI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:53:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\Program.cs",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Program.cs",
+              "RelativeToolTip": "EjemploAzureOpenAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:59:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\ViewModels\\GeminiViewModel.cs",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\ViewModels\\GeminiViewModel.cs",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\ViewModels\\GeminiViewModel.cs",
+              "RelativeToolTip": "EjemploAzureOpenAI\\ViewModels\\GeminiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:39:22.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\appsettings.json",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\appsettings.json",
+              "RelativeToolTip": "EjemploAzureOpenAI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:59:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\appsettings.Development.json",
+              "RelativeToolTip": "EjemploAzureOpenAI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:59:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EjemploAzureOpenAI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:55:36.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EjemploAzureOpenAI",
+              "DocumentMoniker": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+              "RelativeDocumentMoniker": "EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+              "ToolTip": "C:\\Users\\ebuffet\\Desktop\\ICES\\Programaci\u00F3n 2\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+              "RelativeToolTip": "EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T13:27:42.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

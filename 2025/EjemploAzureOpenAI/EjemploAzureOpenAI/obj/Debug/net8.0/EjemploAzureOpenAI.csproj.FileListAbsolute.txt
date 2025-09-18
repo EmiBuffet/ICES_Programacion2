@@ -1,0 +1,118 @@
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.csproj.AssemblyReference.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.AssemblyInfoInputs.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.AssemblyInfo.cs
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.RazorAssemblyInfo.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.RazorAssemblyInfo.cs
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.staticwebassets.runtime.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.staticwebassets.endpoints.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.exe
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.deps.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.runtimeconfig.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.pdb
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Json.More.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Mscc.GenerativeAI.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\bundle\EjemploAzureOpenAI.styles.css
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\projectbundle\EjemploAzureOpenAI.bundle.scp.css
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploA.3EC2FD7B.Up2Date
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\refint\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.pdb
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.genruntimeconfig.cache
+C:\Users\ebuffet\Desktop\ICES\Programación 2\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\ref\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\appsettings.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.staticwebassets.endpoints.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.staticwebassets.runtime.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.exe
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.deps.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.runtimeconfig.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\EjemploAzureOpenAI.pdb
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Json.More.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonPointer.Net.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonSchema.Net.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\JsonSchema.Net.Generation.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\Mscc.GenerativeAI.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.csproj.AssemblyReference.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.AssemblyInfoInputs.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.AssemblyInfo.cs
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.csproj.CoreCompileInputs.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.RazorAssemblyInfo.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.RazorAssemblyInfo.cs
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\bundle\EjemploAzureOpenAI.styles.css
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\scopedcss\projectbundle\EjemploAzureOpenAI.bundle.scp.css
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploA.3EC2FD7B.Up2Date
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\refint\EjemploAzureOpenAI.dll
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.pdb
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\EjemploAzureOpenAI.genruntimeconfig.cache
+C:\Users\ebuffet\Downloads\EjemploAzureOpenAI\EjemploAzureOpenAI\obj\Debug\net8.0\ref\EjemploAzureOpenAI.dll

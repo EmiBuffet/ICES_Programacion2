@@ -1,0 +1,32 @@
+﻿@model EjemploAzureOpenAI.ViewModels.GeminiViewModel
+
+@{
+    ViewData["Title"] = "Generador de Contenido con Gemini";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Generador de Contenido con Gemini</h1>
+    <p>Ingresa tu prompt y obtén una respuesta generada por IA.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <form asp-controller="Home" asp-action="GenerateContent" method="post">
+            <div class="form-group mb-3">
+                <label for="Prompt">Ingresa tu prompt:</label>
+                <textarea class="form-control" id="Prompt" name="Prompt" rows="5" placeholder="Escribe tu solicitud aquí...">@Model.Prompt</textarea>
+            </div>
+            <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-primary">Generar Contenido</button>
+            </div>
+        </form>
+
+        @if (!string.IsNullOrEmpty(Model.Response))
+        {
+            <div class="form-group mt-5">
+                <label for="Response">Respuesta de Gemini:</label>
+                <textarea class="form-control" id="Response" name="Response" rows="10" readonly>@Model.Response</textarea>
+            </div>
+        }
+    </div>
+</div>
