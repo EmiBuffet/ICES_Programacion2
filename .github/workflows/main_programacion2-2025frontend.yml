@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT_DIR: 2025/Persona/Persona
+  PROJECT_DIR: 2025/PersonaWeb/PersonaWeb
 
 jobs:
   build:
@@ -70,3 +70,4 @@ jobs:
           package: .
 
           
+
