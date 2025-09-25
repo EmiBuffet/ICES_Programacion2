@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|c:\\users\\emibu\\onedrive\\documentos\\programacion\\2025\\ices_programacion2\\2025\\persona\\persona\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|solutionrelative:persona\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|c:\\users\\emibu\\onedrive\\documentos\\programacion\\2025\\ices_programacion2\\2025\\persona\\persona\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|solutionrelative:persona\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|c:\\users\\emibu\\onedrive\\documentos\\programacion\\2025\\ices_programacion2\\2025\\persona\\persona\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF51D09C-126D-42FE-8DEB-3BD360100FD9}|Persona\\Persona.csproj|solutionrelative:persona\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Persona\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\appsettings.Development.json",
+              "RelativeToolTip": "Persona\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T22:47:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Persona\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Persona\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T20:33:35.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "Persona\\Controllers\\PersonaController.cs",
               "ToolTip": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\Persona\\Persona\\Controllers\\PersonaController.cs",
               "RelativeToolTip": "Persona\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T22:43:59.217Z",
               "EditorCaption": ""
