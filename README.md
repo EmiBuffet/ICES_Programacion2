@@ -57,7 +57,13 @@ public class AppDbContext : DbContext
     public DbSet<Alumno> Alumnos => Set<Alumno>();
 }
 ```
-### 7. Crear Repositorio
+### 7. Agregar ConnectionString en appsettings.Development.json
+```
+ "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=EscuelaDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+```
+ ### 8. Crear Repositorio
 ```
 using Microsoft.EntityFrameworkCore;
 using EscuelaApi.Datos;
@@ -81,14 +87,14 @@ public class AlumnoRepository : IAlumnoRepository {
     }
 }
 ```
-### 8. Crear DTO en Logica/DTO
+### 9. Crear DTO en Logica/DTO
 ```
 namespace EscuelaApi.Logica.DTOs;
 
 public record AlumnoDto(int Id, string Nombre, string Legajo);
 public record AlumnoCreateDto(string Nombre, string Legajo);
 ```
-### 9. Crear clase de Logica en carpeta Logica
+### 10. Crear clase de Logica en carpeta Logica
 ```
 using EscuelaApi.Repositorios;
 using EscuelaApi.Logica.DTOs;
@@ -96,28 +102,22 @@ using EscuelaApi.Entidades;
 
 namespace EscuelaApi.Logica;
 
-public class AlumnoLogica
+public class AlumnoLogica : IAlumnoLogica
 {
-    private readonly IAlumnoRepository _repo;
-    public AlumnoService(IAlumnoRepository repo) => _repo = repo;
+    private readonly IAlumnoRepositorio _alumnoRepositorio;
 
-    public async Task<IEnumerable<AlumnoDto>> ListarTodos()
+    public AlumnoLogica(IAlumnoRepositorio alumnoRepositorio)
     {
-        var alumnos = await _repo.ObtenerTodos();
-        return alumnos.Select(a => new AlumnoDto(a.Id, a.Nombre, a.Legajo));
+        _alumnoRepositorio = alumnoRepositorio;
     }
 
-    public async Task Crear(AlumnoCreateDto dto)
+    public Task<IEnumerable<Alumno>> GetAlumnosAsync()
     {
-        var nuevoAlumno = new Alumno { 
-            Nombre = dto.Nombre, 
-            Legajo = dto.Legajo 
-        };
-        await _repo.Agregar(nuevoAlumno);
+        return _alumnoRepositorio.GetAlumnosAsync();
     }
 }
 ```
-### 10. Crear API en Endpoints.
+### 11. Crear API en Endpoints.
 ```
 using EscuelaApi.Logica;
 using EscuelaApi.Logica.DTOs;
@@ -128,19 +128,15 @@ public static class AlumnoEndpoints
 {
     public static void MapAlumnoEndpoints(this IEndpointRouteBuilder app)
     {
-        var group = app.MapGroup("/alumnos");
-
-        group.MapGet("/", async (AlumnoService service) => 
-            Results.Ok(await service.ListarTodos()));
-
-        group.MapPost("/", async (AlumnoCreateDto dto, AlumnoService service) => {
-            await service.Crear(dto);
-            return Results.Created();
-        });
+        app.MapGet("/alumnos", async (IAlumnoLogica logica) =>
+        {
+            var alumnos = await logica.GetAlumnosAsync();
+            return Results.Ok(alumnos);
+        })
     }
 }
 ```
-### 11. En Program.cs agregar:
+### 12. En Program.cs agregar:
 ```
 // 1. DBContext
 builder.Services.AddDbContext<AppDbContext>(opt => 
@@ -153,7 +149,7 @@ builder.Services.AddScoped<AlumnoService>();
 // 3. Registrar Rutas
 app.MapAlumnoEndpoints();
 ```
-### 12. Ejecutar migraciones y levantar la aplicación
+### 13. Ejecutar migraciones y levantar la aplicación
 ```
 dotnet ef migrations add Inicial
 dotnet ef database update
