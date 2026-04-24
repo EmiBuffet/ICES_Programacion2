@@ -1,4 +1,4 @@
-# Tutorial para crear API REST en .NET 10 con Minimal APIs, Scalar y Arquitectura Limpia
+# Tutorial para crear API REST en .NET 10 con Minimal APIs, Entiframework, Scalar y Arquitectura Limpia
 ## Requisitos: VS Code, .NET 8 o superior (recomendado .NET 10) y SQL Server
 
 ### 1. Crear el proyecto Web API
