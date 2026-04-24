@@ -155,3 +155,7 @@ dotnet ef migrations add Inicial
 dotnet ef database update
 dotnet run
 ```
+Si da algun error en los comandos. Instalar EntityFramework de manera global:
+```
+dotnet tool install --global dotnet-ef
+```
