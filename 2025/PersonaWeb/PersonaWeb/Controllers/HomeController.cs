@@ -1,12 +1,14 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using PersonaWeb.Models;
+using Prometheus;
 
 namespace PersonaWeb.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private static readonly Counter ContadorPeticiones = Metrics.CreateCounter("total_peticiones_privacy", "Total de peticiones procesadas.");
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -20,6 +22,7 @@ namespace PersonaWeb.Controllers
 
         public IActionResult Privacy()
         {
+            ContadorPeticiones.Inc();
             return View();
         }
 

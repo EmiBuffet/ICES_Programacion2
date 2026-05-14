@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ebuffet\\Downloads\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj": {}
+    "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ebuffet\\Downloads\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj": {
+    "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ebuffet\\Downloads\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+        "projectUniqueName": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
         "projectName": "EjemploAzureOpenAI",
-        "projectPath": "C:\\Users\\ebuffet\\Downloads\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
-        "packagesPath": "C:\\Users\\ebuffet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ebuffet\\Downloads\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\obj\\",
+        "projectPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\EjemploAzureOpenAI.csproj",
+        "packagesPath": "C:\\Users\\emibu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2025\\EjemploAzureOpenAI\\EjemploAzureOpenAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ebuffet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emibu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.gruposancorseguros.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -46,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -76,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -462,3 +462,6 @@ C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\Per
 C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\obj\Debug\net8.0\PersonaWeb.csproj.Up2Date
 C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\obj\Debug\net8.0\PersonaWeb.genruntimeconfig.cache
 C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\obj\Debug\net8.0\ref\PersonaWeb.dll
+C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\bin\Debug\net8.0\Prometheus.NetStandard.dll
+C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\bin\Debug\net8.0\Prometheus.AspNetCore.dll
+C:\Users\emibu\OneDrive\Documentos\Programacion\2025\ICES_Programacion2\2025\PersonaWeb\PersonaWeb\obj\Debug\net8.0\PersonaWeb.MvcApplicationPartsAssemblyInfo.cs
