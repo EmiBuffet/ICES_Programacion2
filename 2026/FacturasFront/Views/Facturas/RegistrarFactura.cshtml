@@ -1,0 +1,20 @@
+@model FacturasFront.Models.Facturas
+
+<form asp-action="RegistrarFactura" method="post">
+    <div class="form-group">
+        <label asp-for="Cliente"></label>
+        <input asp-for="Cliente" class="form-control" />
+        <span asp-validation-for="Cliente" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Monto"></label>
+        <input asp-for="Monto" class="form-control" />
+        <span asp-validation-for="Monto" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Fecha"></label>
+        <input asp-for="Fecha" type="date" class="form-control" />
+        <span asp-validation-for="Fecha" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Registrar Factura</button>
+</form>

@@ -1,0 +1,26 @@
+@model List<FacturasFront.Models.Facturas>
+
+<h1>@ViewData["Titulo"]</h1>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Cliente</th>
+                <th>Monto</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var factura in Model)
+            {
+            <tr>
+                <td>@factura.Id</td>
+                <td>@factura.Cliente</td>
+                <td>@factura.Monto</td>
+                <td>@factura.Fecha.ToString("dd/MM/yyyy")</td>
+            </tr>
+            }
+        </tbody>
+    </table>

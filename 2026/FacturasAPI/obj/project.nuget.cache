@@ -54,5 +54,18 @@
     "C:\\Users\\emibu\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\emibu\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2026\\FacturasAPI\\FacturasAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\emibu\\OneDrive\\Documentos\\Programacion\\2025\\ICES_Programacion2\\2026\\FacturasAPI\\FacturasAPI.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
