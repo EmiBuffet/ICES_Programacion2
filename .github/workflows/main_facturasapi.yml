@@ -8,7 +8,10 @@ on:
     branches:
       - main
   workflow_dispatch:
-
+  
+env:
+  PROJECT_DIR: 2026/FacturasAPI
+  
 jobs:
   build:
     runs-on: windows-latest
@@ -25,15 +28,17 @@ jobs:
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
+        working-directory: ${{ env.PROJECT_DIR }}
 
       - name: dotnet publish
         run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+        working-directory: ${{ env.PROJECT_DIR }}
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
+          path: ${{env.GITHUB_WORKSPACE}}/myapp
 
   deploy:
     runs-on: windows-latest
